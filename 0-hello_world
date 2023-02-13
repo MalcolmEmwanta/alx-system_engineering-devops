@@ -1,0 +1,3 @@
+#!/bin/bash
+h$ ./0-hello_world
+h$ ./0-hello_world | cat -e
