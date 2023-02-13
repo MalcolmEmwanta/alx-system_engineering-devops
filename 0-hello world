@@ -1,5 +1,0 @@
-MalcolmEmwanta@ubuntu:/tmp/h$ ./0-hello_world 
-Hello, World
-MalcolmEmwanta@ubuntu:/tmp/h$ ./0-hello_world | cat -e
-Hello, World$
-MalcolmEmwanta@ubuntu:/tmp/h$
