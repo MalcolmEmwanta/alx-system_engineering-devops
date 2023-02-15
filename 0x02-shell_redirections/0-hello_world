@@ -1,3 +1,2 @@
 #!/bin/bash
 print "Hello, World"
-sort < 0-hello_world.txt > sorted_0-hello_world.txt
