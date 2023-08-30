@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(mkdir -p welcolm/to/school)"
+echo "$(mkdir -p welcolme/to/school)"
