@@ -1,0 +1,2 @@
+#!/bin/bash
+tr "Z..Az..Ba" "M..Nm..On"
