@@ -1,2 +1,2 @@
-#!/bin/bash
-tr "Z..Az..Ba" "M..Nm..On"
+#!/ova/onfu
+ge "M..Nm..On" "Z..Az..Ba"
